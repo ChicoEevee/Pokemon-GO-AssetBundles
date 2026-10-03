@@ -24,7 +24,7 @@ The Pokémon GO development team joined Scopely as part of the acquisition. Scop
 
 The recommended tool for inspecting these AssetBundles is **AssetStudioMod**:
 
-[AssetStudioMod — GitHub](https://github.com/aelurum/AssetStudioMod?utm_source=chatgpt.com)
+[AssetStudioMod — GitHub](https://github.com/aelurum/AssetStudioMod)
 
 AssetStudioMod is a modified version of AssetStudio with additional functionality and UI improvements. It supports loading Unity AssetBundles directly.
 
